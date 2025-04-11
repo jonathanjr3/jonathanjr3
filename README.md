@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a mobile app developer with expertise in iOS d
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathanjr3&repo=aslbuddy&theme=dark)](https://github.com/jonathanjr3/aslbuddy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jonathanjr3&repo=pokedex&theme=dark)](https://github.com/jonathanjr3/pokedex)
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jonathan-r-0a3b49171/)
